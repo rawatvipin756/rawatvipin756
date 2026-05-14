@@ -1,6 +1,26 @@
 <h1>Vipin Singh Rawat</h1>
 
-I'm vipin, an full stack developer. 
+# Hey there 👋 I'm Vipin
+
+Frontend Developer in progress 🚀  
+Currently learning full stack development and building projects.
+
+### What I'm working on:
+- Portfolio Website
+- To-Do App
+- React Projects
+- Backend APIs
+
+### Tech I use:
+HTML | CSS | JavaScript | React | Git | GitHub
+
+### 2026 Goals:
+✔ Build strong projects  
+✔ Learn backend properly  
+✔ Contribute to open source  
+✔ Get internship/job opportunities
+
+Thanks for visiting my profile ⭐
 
 <!--
 **rawatvipin756/rawatvipin756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
