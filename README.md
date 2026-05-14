@@ -1,5 +1,3 @@
-<h1>Vipin Singh Rawat</h1>
-
 # Hey there 👋 I'm Vipin
 
 Frontend Developer in progress 🚀  
