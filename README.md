@@ -10,7 +10,7 @@ Currently learning full stack development and building projects.
 - Backend APIs
 
 ### Tech I use:
-HTML | CSS | JavaScript | React | Git | GitHub
+HTML | CSS | JavaScript | React | Git | GitHub    mongodndvnfjrknurhfkujjnufdrjndugdnduigkgjig
 
 ### 2026 Goals:
 ✔ Build strong projects  
